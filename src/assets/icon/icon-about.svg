@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="#343740" width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-about</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.3%" y="-2.1%" width="104.7%" height="104.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="App" stroke="none" stroke-width="1" >
+        <g id="More-/-Home" transform="translate(-43.000000, -281.000000)" >
+            <g id="menu-items" filter="url(#filter-1)" transform="translate(16.000000, 132.000000)">
+                <g id="Tile-/-Agent-/-Hoz-Copy-5" transform="translate(0.000000, 128.000000)">
+                    <g id="icon-about" transform="translate(30.000000, 23.000000)">
+                        <path d="M25.9913043,19 L21,19 L21,22.0428966 L22.0059497,22.0428966 L22.0059497,32.9571034 L21,32.9571034 L21,36 L27,36 L27,32.9571034 L25.9913043,32.9571034 L25.9913043,19 Z M48,24 C48,10.74528 37.25472,0 24,0 C10.74528,0 0,10.74528 0,24 C0,37.25472 10.74528,48 24,48 C37.25472,48 48,37.25472 48,24 Z M24,4 C35.0473613,4 44,12.9526387 44,24 C44,35.0473613 35.0473613,44 24,44 C12.9526387,44 4,35.0473613 4,24 C4,12.9526387 12.9526387,4 24,4 Z M21,13.5009904 C21,14.8811883 22.119802,16 23.5009901,16 C24.880198,16 26,14.8811883 26,13.5009904 C26,12.1198025 24.880198,11 23.5009901,11 C22.119802,10.9990106 21,12.1188124 21,13.5009904 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
